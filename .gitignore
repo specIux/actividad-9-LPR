@@ -1,0 +1,20 @@
+# Binarios y archivos compilados
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.user
+
+# Archivos temporales del sistema
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
